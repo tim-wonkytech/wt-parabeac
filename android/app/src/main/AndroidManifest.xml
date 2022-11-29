@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.parabeac_play">
+    package="com.example.counter_app">
    <application
-        android:label="parabeac_play"
+        android:label="counter_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
