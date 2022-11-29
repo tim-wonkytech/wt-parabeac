@@ -1,6 +1,6 @@
 {
-    "name": "parabeac_play",
-    "short_name": "parabeac_play",
+    "name": "counter_app",
+    "short_name": "counter_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
