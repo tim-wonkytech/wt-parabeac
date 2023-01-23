@@ -1,6 +1,6 @@
 {
-    "name": "parabeac_play",
-    "short_name": "parabeac_play",
+    "name": "wt_widgetbook",
+    "short_name": "wt_widgetbook",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
